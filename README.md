@@ -4,5 +4,5 @@
 Connect to Twitter API, get winners' follower number automatically and rank by follwer's numbers
 
 
-### Validator Info (2020)
-Connect to gmail, extract key information from the emails, save to dataframe and write to google sheet  
+### Validator Info extraction 
+Connect to gmail using google developer tools, extract key information from the emails using ReGex, save to dataframe and write to google sheet  
